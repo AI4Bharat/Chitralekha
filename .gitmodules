@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/AI4Bharat/Chitralekha-Frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/AI4Bharat/Chitralekha-Backend
