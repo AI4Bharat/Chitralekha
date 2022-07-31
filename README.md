@@ -74,4 +74,7 @@ Any information/help/discussion required, can be taken up using the following li
 https://github.com/AI4Bharat/Chitralekha-App/discussions
 
 
+## Code of Conduct
+This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.md).
+By participating, you are expected to uphold this code. Please report unacceptable behavior to opensource@ai4bharat.org.
 
