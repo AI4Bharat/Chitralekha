@@ -59,7 +59,7 @@ Chitralekha supports editing the transcriptions both in the source and target la
 
 
 ## Overview and Demo Video
-[![Chitralekha Overview & Demo](https://github.com/AI4Bharat/Chitralekha-App/blob/master/docs/chitralekha/images/chitralekha-demo.png)](https://www.youtube.com/watch?v=test) 
+[![Chitralekha Overview & Demo](https://github.com/AI4Bharat/Chitralekha-App/blob/master/docs/chitralekha/images/chitralekha-demo.png)](https://www.youtube.com/watch?v=Jq3CcEb9pxQ) 
 
 
 ## Cloning this master repo
