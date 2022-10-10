@@ -65,13 +65,13 @@ Chitralekha supports editing the transcriptions both in the source and target la
 ## Cloning this master repo
 
 ```
-git clone --recurse-submodules https://github.com/AI4Bharat/Chitralekha-App
+git clone --recurse-submodules https://github.com/AI4Bharat/Chitralekha
 ```
 
 ## Communication Forum
 Any information/help/discussion required, can be taken up using the following link :
 <br>
-https://github.com/AI4Bharat/Chitralekha-App/discussions
+https://github.com/AI4Bharat/Chitralekha/discussions
 
 
 ## Code of Conduct
