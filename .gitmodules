@@ -5,3 +5,4 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/AI4Bharat/Chitralekha-Frontend
+	branch = master
