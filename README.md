@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://chitralekha.ai4bharat.org"><img src="https://github.com/AI4Bharat/Chitralekha-App/blob/master/docs/chitralekha/logos/chitralekha-logo.png?raw=true" alt="Chitralekha" width="600" height="110"></a>
+  <a href="https://chitralekha.ai4bharat.org"><img src="https://github.com/AI4Bharat/Chitralekha-App/blob/master/docs/chitralekha/logos/chitralekha-logo.png?raw=true" alt="Chitralekha" width="500" height="110"></a>
 </p>
 
 <p align="center">
