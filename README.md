@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <em>An open source video subtitling tool for Indic languages using ML models</em>
+    <em>An open source video transcreation platform for Indic languages using ML models</em>
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 
 ***
 
-*[Chitralekha](http://chitralekha.ai4bharat.org/)* is an open source platform tool for video subtitling across various Indic languages, using ML model support (ASR for Transcription and NMT for Translation)
+*[Chitralekha](http://chitralekha.ai4bharat.org/)* is an open source platform for video transcreation across various Indic languages, using ML model support (ASR for Transcription, NMT for Translation and TTS for Voice-over)
 
-Chitralekha offers support for multiple input sources (Ex : Youtube, local etc) and transcription generation process (Ex : Models, Source captions, Custom subtitle files etc).
+Chitralekha offers support for multiple input sources (Ex : Youtube, local), transcription generation process (Ex : Models, Source captions, Custom subtitle files, manually created), translation generation process (Models, manually created) and voice-over generation process (Models, manually created). Currently, Chitralekha supports voice-over for only single speaker videos. Support for multi-speaker videos is under development.  
 
 <br>
 
@@ -32,10 +32,10 @@ Chitralekha offers support for multiple input sources (Ex : Youtube, local etc) 
 </p>
 
 ## Why Chitralekha?
-In current world, there are numerous informative videos available online. Mostly they are associated with very few languages. The usefulness of the content can be increased by creating the sub-titles of these across various Indic languages. 
+In current world, there are numerous informative videos available online. Mostly they are associated with very few languages. The usefulness of the content can be increased by creating the sub-titles and voice-over of these across various Indic languages. 
 With millions of hours of video contents, it becomes harder to manually create the multi-lingual sub-titles. This is where Chitraleka comes to the rescue.
 
-The existing state-of-the-art ASR & Translation ML models can power the Chitralekha tool, to provides the platform for the Transcriptionists/Translators to create the multi-lingual sub-titles at scale with high accuracy. 
+The existing state-of-the-art ASR, Translation ML and TTS models can power the Chitralekha tool, to provides the platform for the Transcriptionists/Translators to create the multi-lingual sub-titles at scale with high accuracy. 
 
 
 ## Goals
@@ -57,6 +57,8 @@ Chitralekha supports transcribing the input video with IndicASR for English and 
 ### `Transliteration Support` 
 Chitralekha supports editing the transcriptions both in the source and target languages in Roman characters with IndicXlit support.
 
+### `Voice-over Support` 
+Chitralekha supports voice-over generation for the translated subtitles of the input video with IndicTTS for Indian languages. This automatically creates timestamped voice-over audio files which can be edited by editing the subtitle text of that particular timestamp. 
 
 ## Overview and Demo Video
 [![Chitralekha Overview & Demo](https://github.com/AI4Bharat/Chitralekha-App/blob/master/docs/chitralekha/images/chitralekha-demo.png)](https://www.youtube.com/watch?v=Jq3CcEb9pxQ) 
