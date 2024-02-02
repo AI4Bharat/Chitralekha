@@ -60,6 +60,9 @@ Chitralekha supports editing the transcriptions both in the source and target la
 ### `Voice-over Support` 
 Chitralekha supports voice-over generation for the translated subtitles of the input video with IndicTTS for Indian languages. This automatically creates timestamped voice-over audio files which can be edited by editing the subtitle text of that particular timestamp. 
 
+## High Level Architecture
+<img width="1249" alt="image" src="https://github.com/AI4Bharat/Chitralekha/assets/1707796/804f724f-a81a-4fcf-b67b-83467ea18bb9">
+
 ## Overview and Demo Video
 [![Chitralekha Overview & Demo](https://github.com/AI4Bharat/Chitralekha-App/blob/master/docs/chitralekha/images/chitralekha-demo.png)](https://www.youtube.com/watch?v=Jq3CcEb9pxQ) 
 
